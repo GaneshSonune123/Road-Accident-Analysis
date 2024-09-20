@@ -3,13 +3,13 @@
 
 This repository contains a Power BI dashboard that analyzes road accidents in the UK for the Current Year (CY) compared to the Previous Year (PY). The analysis provides key metrics and insights into various types of casualties, accident locations, and contributing factors to road accidents, helping to inform safety improvements.
 
-###Objective:
+### Objective:
 The primary objective of this analysis is to:
 
 ➢ Understand trends and patterns in road accidents over the current year (CY) and previous year (PY).
 ➢ Identify high-risk conditions (e.g., time of day, road type, vehicle type) associated with road accidents.
 ➢ Provide data-driven recommendations to reduce road casualties and improve road safety.
-###Steps:
+### Steps:
 #### 1)Data Collection:
 Road accident data was collected for the Current Year (CY) and Previous Year (PY).
 
@@ -56,7 +56,7 @@ Dark: 26.16%
 #### ◉Monthly Trend:
 The dashboard shows a comparative trend of accident casualties across months between the current year (CY) and the previous year (PY).
 
-###Key Insights:
+### Key Insights:
 #### 1)Overall Decrease in Casualties:
 Total casualties decreased by 11.9%, with significant drops in both fatal (-33.3%) and serious casualties (-16.2%). This suggests that road safety measures may have had a positive impact.
 
