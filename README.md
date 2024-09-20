@@ -4,7 +4,6 @@
 This repository contains a Power BI dashboard that analyzes road accidents in the UK for the Current Year (CY) compared to the Previous Year (PY). The analysis provides key metrics and insights into various types of casualties, accident locations, and contributing factors to road accidents, helping to inform safety improvements.
 
 ### Objective:
-The primary objective of this analysis is to:
 
 ➢ Understand trends and patterns in road accidents over the current year (CY) and previous year (PY).
 
@@ -30,33 +29,53 @@ Key metrics were compared between CY and PY to highlight significant changes and
 #### ◉Total Casualties (CY vs. PY):
 
 Total CY Casualties: 196K (-11.9% year-over-year decrease)
+
 Total CY Accidents: 144.4K (-11.7% year-over-year decrease)
+
 CY Fatal Casualties: 3K (-33.3% year-over-year decrease)
+
 CY Serious Casualties: 27K (-16.2% year-over-year decrease)
+
 CY Slight Casualties: 166K (-10.6% year-over-year decrease)
+
 #### ◉Casualties by Vehicle Type:
 
 Car: 155,804
+
 Van: 15,905
+
 Bike: 15,610
+
 Bus: 6,573
+
 Other: 1,446
+
 Agricultural Vehicles: 399
+
 #### ◉Casualties by Road Type:
 
 Single Carriageway: 145K
+
 Dual Carriageway: 32K
+
 Roundabout: 13K
+
 One Way Street: 3K
+
 Slip Road: 3K
+
 #### ◉Casualties by Location:
 
 Urban: 61.95%
+
 Rural: 38.05%
+
 #### ◉Casualties by Light Condition:
 
 Daylight: 73.84%
+
 Dark: 26.16%
+
 #### ◉Monthly Trend:
 The dashboard shows a comparative trend of accident casualties across months between the current year (CY) and the previous year (PY).
 
