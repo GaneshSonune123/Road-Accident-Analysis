@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard that analyzes road accidents in th
 ### Objective:
 The primary objective of this analysis is to:
 
-➢ Understand trends and patterns in road accidents over the current year (CY) and previous year (PY).
+➢ Understand trends and patterns in road accidents over the current year (CY) and previous year (PY)./n
 ➢ Identify high-risk conditions (e.g., time of day, road type, vehicle type) associated with road accidents.
 ➢ Provide data-driven recommendations to reduce road casualties and improve road safety.
 ### Steps:
